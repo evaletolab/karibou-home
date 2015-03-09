@@ -201,6 +201,11 @@ section h2 {
         background-color: rgba(0, 0, 0, 0.3);
         padding: 0px 10px;        
     }
+
+    header .intro-text .name {
+        font-size: 1.2em;
+    }
+
 /**    section.first {
         padding-top: 75px;
     }
